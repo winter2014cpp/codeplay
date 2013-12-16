@@ -1,4 +1,4 @@
 codeplay
 ========
 
-A rush of code to the head.
+A rush of pointers to the head.
